@@ -4,7 +4,7 @@ import Tablet from './pages/Tablet'
 import Smartphone from './pages/Smartphone'
 import Product from './pages/Product'
 import About from './pages/About'
-import Contact from './pages/contact'
+import Contact from './pages/Contact'
 
 export default function App() {
   return (
